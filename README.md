@@ -1,7 +1,7 @@
 # Mekan32: [https://asimsinanyuksel.herokuapp.com](https://asimsinanyuksel.herokuapp.com)
-Mekan32 projesi Web Teknolojileri ve Programlama dersinde dönem boyunca üzerinde çalışacağımız ve MEAN yığını kullanarak geliştireceğimiz bir projedir. Uygulama, Isparta bazlı çalışacak olup, kullanıcının konumuna belirlenen uzaklıktaki restorant, kafe vb. yerleri listeleyecek.
+Mekan32 projesi Web Teknolojileri ve Programlama dersinde dönem boyunca üzerinde çalıştığımız ve MEAN yığını kullanarak geliştirdiğimiz bir projedir. Uygulama, Isparta bazlı çalışacak olup, kullanıcının konumuna belirlenen uzaklıktaki restorant, kafe vb. yerleri listeler.Projeyi ASIM SİNAN YÜKSEL hocamız ile derste beraber geliştirdik. Hocamızın heroku hesabında erişim sağlayabilirsiniz.
 
-## Kullanılacak Teknolojiler:
+## Kullanılan Teknolojiler:
 * Orta katman: ExpressJS
 * Sunucu platformu: NodeJS
 * Veritabanı: MongoDB
@@ -15,7 +15,7 @@ Mekan32 projesi Web Teknolojileri ve Programlama dersinde dönem boyunca üzerin
 * Arayüz Çatısı: Angular
 * API Testi: Postman
 
-## Uygulamada Yer Alacak Özellikler:
+## Uygulamada Yer Alan Özellikler:
 * Anasayfada konum civarındaki mekanların listelenmesi.
 * Herhangi bir mekanın üzerine tıklandığında mekan ile ilgili detay sayfasının gösterilmesi. Bu sayfada mekanın puanı, adresi, çalışma saatleri, sunduğu imkanlar, harita üzerindeki yeri, kullanıcı yorumları gösterilecek.
 * Kullanıcılar mekana yorum yapabilecek ve puan verebilecek.
